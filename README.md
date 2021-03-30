@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JaeB1
+- 👀 I’m interested in software engineering, specifically mobile development!
+- 🌱 I’m currently learning Java & Kotlin
+- 💞️ I’m looking to collaborate on open-source projects that will allow me to gain experience and gain deeper knowledge on software.
